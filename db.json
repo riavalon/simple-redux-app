@@ -1,0 +1,163 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Article number 1",
+      "content": "This is the first article returned from the server! Hot diggity dog. I got real lazy with the commenter names and comments."
+    },
+
+    {
+      "id": 2,
+      "title": "Article: The sequel",
+      "content": "This is the first article returned from the server! Hot diggity dog."
+    },
+
+    {
+      "id": 3,
+      "title": "Does dracula is real? Find out today night!!!11!!1eleven1!!"
+    },
+
+    {
+      "id": 4,
+      "title": "Streak and Frites with sautéed mushrooms and fried onions",
+      "content": "is really gud"
+    },
+
+    {
+      "id": 5,
+      "title": "Law of Fives",
+      "content": "Fnord."
+    }
+  ],
+
+  "comments": [
+    {
+      "articleId": 1,
+      "commenterName": "Samson",
+      "comment": "Hairball."
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+    {
+      "articleId": 1,
+      "commenterName": "Rebecca",
+      "comment": "Friday"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    },
+
+
+    {
+      "articleId": 5,
+      "commenterName": "Raven",
+      "comment": "This blog is dumb"
+    }
+  ]
+}
